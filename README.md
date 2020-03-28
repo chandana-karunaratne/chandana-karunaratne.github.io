@@ -4,8 +4,6 @@ Repository of Python and SQL tools that automate data analysis and machine learn
 
 ### [* Twitter Web Scraper](https://github.com/chandana-karunaratne/Twitter-Scraper)
 
-<font size="5"> [* Twitter Web Scraper](https://github.com/chandana-karunaratne/Twitter-Scraper)</font>
-
 ### [* Reddit Web Scraper](https://github.com/chandana-karunaratne/Reddit-Scraper)
 
 
