@@ -34,15 +34,31 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 **Key Programming/Query Languages:** 
 * Python (Pandas, Numpy, Scikit-learn, GeoPy, others)
-* MySQL
-**Machine Learning:** natural language processing, classification, clustering, simulation modelling <br>
-**Statistical Methods:** regression modelling, time series analysis, predictive modelling, significance testing <br>
-**Data Visualisation:** static and dynamic visualisation models using Tableau, Matplotlib, Seaborn, Processing <br>
-**Big Data Analytics:** Hadoop MapReduce, Hive, Spark SQL, PySpark, MongoDB, Cloudera
+* MySQL <br>
+**Machine Learning:** 
+* Natural language processing
+* Classification
+* Clustering
+* Simulation modelling <br>
+**Statistical Methods:** 
+* Regression modelling (multivariable, logistic, probit) 
+* Time series analysis <br>
+**Data Visualisation:** 
+* Tableau
+* Matplotlib
+* Seaborn
+* Processing <br>
+**Big Data Analytics:** 
+* Hadoop MapReduce
+* Hive
+* Spark SQL
+* PySpark
+* MongoDB
+* Cloudera
 
 ### About me:
 I'm a data analyst with an MSc in data science and 7+ years of experience in applying statistical analysis to economic and market research. I have a proven track record of driving employer revenue growth and reducing employee labour costs via development of automated data analytics tools using Python and MySQL.
 
 You can contact me at chandana[dot]karu[at]gmail[dot]com
 chandana.karu@gmail.com
-[chandana.karu@gmail.com](chandana.karu@gmail.com)
+[chandana.karu@gmail.com](mailto:chandana.karu@gmail.com)
