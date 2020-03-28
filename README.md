@@ -34,7 +34,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 **Key Programming/Query Languages:** 
 * Python (Pandas, Numpy, Scikit-learn, GeoPy, others)
-* MySQL <br>
+* MySQL
+
 **Machine Learning:** 
 * Natural language processing
 * Classification
