@@ -1,6 +1,6 @@
-## [Insert Section]
+## Automated Data Analytics Tools
 
-[Insert text]
+Repository of Python and SQL tools that automate data analysis and machine learning tasks (including natural language processing, classification, and regression modelling).
 
 ### [Insert Section]
 
