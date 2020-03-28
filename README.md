@@ -40,15 +40,18 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 * Natural language processing
 * Classification
 * Clustering
-* Simulation modelling <br>
+* Simulation modelling
+
 **Statistical Methods:** 
 * Regression modelling (multivariable, logistic, probit) 
-* Time series analysis <br>
+* Time series analysis
+
 **Data Visualisation:** 
 * Tableau
 * Matplotlib
 * Seaborn
-* Processing <br>
+* Processing
+
 **Big Data Analytics:** 
 * Hadoop MapReduce
 * Hive
