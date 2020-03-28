@@ -32,10 +32,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Technical Skills:
 
-**Key Programming/Query Languages:** Python (Pandas, Numpy, Scikit-learn, GeoPy, others) and MySQL <br>
-**Machine Learning:** natural language processing, classification, clustering, simulation modelling
-**Statistical Methods:** regression modelling, time series analysis, predictive modelling, significance testing
-**Data Visualisation:** static and dynamic visualisation models using Tableau, Matplotlib, Seaborn, Processing
+**Key Programming/Query Languages:** 
+* Python (Pandas, Numpy, Scikit-learn, GeoPy, others)
+* MySQL
+**Machine Learning:** natural language processing, classification, clustering, simulation modelling <br>
+**Statistical Methods:** regression modelling, time series analysis, predictive modelling, significance testing <br>
+**Data Visualisation:** static and dynamic visualisation models using Tableau, Matplotlib, Seaborn, Processing <br>
 **Big Data Analytics:** Hadoop MapReduce, Hive, Spark SQL, PySpark, MongoDB, Cloudera
 
 ### About me:
@@ -43,4 +45,4 @@ I'm a data analyst with an MSc in data science and 7+ years of experience in app
 
 You can contact me at chandana[dot]karu[at]gmail[dot]com
 chandana.karu@gmail.com
-[chandana.karu@gmail.com] (chandana.karu@gmail.com)
+[chandana.karu@gmail.com](chandana.karu@gmail.com)
