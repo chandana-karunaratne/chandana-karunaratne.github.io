@@ -32,11 +32,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Technical Skills:
 
-*Key Programming/Query Languages:* Python (Pandas, Numpy, Scikit-learn, GeoPy, others) and MySQL
-*Machine Learning:* natural language processing, classification, clustering, simulation modelling
-*Statistical Methods:* regression modelling, time series analysis, predictive modelling, significance testing
-*Data Visualisation:* static and dynamic visualisation models using Tableau, Matplotlib, Seaborn, Processing
-*Big Data Analytics:* Hadoop MapReduce, Hive, Spark SQL, PySpark, MongoDB, Cloudera
+**Key Programming/Query Languages:** Python (Pandas, Numpy, Scikit-learn, GeoPy, others) and MySQL <br>
+**Machine Learning:** natural language processing, classification, clustering, simulation modelling
+**Statistical Methods:** regression modelling, time series analysis, predictive modelling, significance testing
+**Data Visualisation:** static and dynamic visualisation models using Tableau, Matplotlib, Seaborn, Processing
+**Big Data Analytics:** Hadoop MapReduce, Hive, Spark SQL, PySpark, MongoDB, Cloudera
 
 ### About me:
 I'm a data analyst with an MSc in data science and 7+ years of experience in applying statistical analysis to economic and market research. I have a proven track record of driving employer revenue growth and reducing employee labour costs via development of automated data analytics tools using Python and MySQL.
