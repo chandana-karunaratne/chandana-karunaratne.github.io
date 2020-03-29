@@ -27,3 +27,5 @@ Repository of Python and SQL tools that automate data analysis and machine learn
 I'm a data analyst with an MSc in data science and 7+ years of experience in applying statistical analysis to economic and market research. I have a proven track record of driving employer revenue growth and reducing employee labour costs via development of automated data analytics tools using Python and MySQL.
 
 **Contact:** [chandana.karu@gmail.com](mailto:chandana.karu@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/chandana-karunaratne](https://www.linkedin.com/in/chandana-karunaratne/)
