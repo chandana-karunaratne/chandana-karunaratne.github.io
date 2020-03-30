@@ -6,6 +6,8 @@ Repository of Python and SQL tools that automate data analysis and machine learn
 
 ### [* Reddit Web Scraper](https://github.com/chandana-karunaratne/Reddit-Scraper)
 
+### [* Socio-demographic Profiler](https://github.com/chandana-karunaratne/TfL_Passenger_Profiles)
+
 ---
 
 ## Technical Skills:
