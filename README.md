@@ -29,7 +29,7 @@ Repository of Python and SQL tools that automate data analysis and machine learn
 * Time series analysis
 
 ### About me: <br> 
-I'm a data analyst with an MSc in data science and 7+ years of experience in applying statistical analysis to economic and market research. I have a proven track record of driving employer revenue growth and reducing employee labour costs via development of automated data analytics tools using Python and MySQL.
+I'm a data analyst with an MSc in data science and 7+ years of experience in applying statistical analysis to economic and market research. I'm currently based in Toronto, Canada.
 
 **Contact:** [chandana.karu@gmail.com](mailto:chandana.karu@gmail.com)
 
