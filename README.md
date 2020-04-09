@@ -3,10 +3,13 @@
 Repository of Python and SQL tools that automate data analysis and machine learning tasks (including natural language processing, classification, and regression modelling).
 
 ### [* Automated Twitter Classifier](https://github.com/chandana-karunaratne/Twitter-Classifier)
+* Downloads and categorizes tweets using a prediction algorithm based on machine learning
 
 ### [* Reddit Web Scraper](https://github.com/chandana-karunaratne/Reddit-Scraper)
+* Collects relevant details (including the top comment) from the top *n* posts in a specific subreddit
 
 ### [* Socio-demographic Profiler](https://github.com/chandana-karunaratne/TfL_Passenger_Profiles)
+* Creates socio-demographic profiles of passengers on the London Underground transit system using geospatial analysis
 
 ---
 
