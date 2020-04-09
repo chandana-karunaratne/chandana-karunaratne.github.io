@@ -2,7 +2,7 @@
 
 Repository of Python and SQL tools that automate data analysis and machine learning tasks (including natural language processing, classification, and regression modelling).
 
-### [* Twitter Web Scraper](https://github.com/chandana-karunaratne/Twitter-Scraper)
+### [* Automated Twitter Classifier](https://github.com/chandana-karunaratne/Twitter-Classifier)
 
 ### [* Reddit Web Scraper](https://github.com/chandana-karunaratne/Reddit-Scraper)
 
