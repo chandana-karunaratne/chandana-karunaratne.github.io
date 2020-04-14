@@ -34,3 +34,5 @@ I'm a data analyst with an MSc in data science and 7+ years of experience in app
 **Contact:** [chandana.karu@gmail.com](mailto:chandana.karu@gmail.com)
 
 **LinkedIn:** [linkedin.com/in/chandana-karu](https://www.linkedin.com/in/chandana-karu/)
+
+**Resume:** [Resume](https://chandana-karunaratne.github.io/RESUME_Chandana Karunaratne.pdf)
