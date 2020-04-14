@@ -37,3 +37,6 @@ I'm a data analyst with an MSc in data science and 7+ years of experience in app
 
 **Resume:** <a href="chandana-karunaratne.github.io/RESUME_Chandana_Karunaratne.pdf" target="_blank">Data Analyst_Chandana Karunaratne</a>
 
+<a href="https://www.linkedin.com/in/chandana-karu/" target="_blank">linkedin.com/in/chandana-karu</a>
+
+
