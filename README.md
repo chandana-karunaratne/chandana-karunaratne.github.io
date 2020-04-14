@@ -11,6 +11,9 @@ Repository of Python and SQL tools that automate data analysis and machine learn
 ### [* Socio-demographic Profiler](https://github.com/chandana-karunaratne/TfL_Passenger_Profiles)
 * Creates socio-demographic profiles of passengers on the London Underground transit system using geospatial analysis
 
+### <a href="https://github.com/chandana-karunaratne/Twitter-Classifier" target="_blank">[* Twitter Classifier]</a>
+* Downloads and categorizes tweets using a prediction algorithm based on machine learning
+
 ---
 
 ## Technical Skills:
@@ -31,12 +34,8 @@ Repository of Python and SQL tools that automate data analysis and machine learn
 ### About me: <br> 
 I'm a data analyst with an MSc in data science and 7+ years of experience in applying statistical analysis to economic and market research. I'm currently based in Toronto, Canada.
 
-**Contact:** [chandana.karu@gmail.com](mailto:chandana.karu@gmail.com)
+**Contact:** <a href="mailto:chandana.karu@gmail.com" target="_blank">chandana.karu@gmail.com</a>
 
-**LinkedIn:** [linkedin.com/in/chandana-karu](https://www.linkedin.com/in/chandana-karu/)
+**LinkedIn:** <a href="https://www.linkedin.com/in/chandana-karu/" target="_blank">linkedin.com/in/chandana-karu</a>
 
 **Resume:** <a href="chandana-karunaratne.github.io/RESUME_Chandana_Karunaratne.pdf" target="_blank">Data Analyst_Chandana Karunaratne</a>
-
-<a href="https://www.linkedin.com/in/chandana-karu/" target="_blank">linkedin.com/in/chandana-karu</a>
-
-
