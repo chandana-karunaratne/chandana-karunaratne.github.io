@@ -2,5 +2,3 @@ theme: jekyll-theme-minimal
 title: Chandana Karunaratne
 description: <b>Data Analyst (Python + SQL)</b> <br><br><b>Contact:&nbsp;</b><a href="mailto:chandana.karu@gmail.com" target="_blank">chandana.karu@gmail.com</a><br><br> <b>Resume:&nbsp;</b><a href="chandana-karunaratne.github.io/RESUME_Chandana_Karunaratne.pdf" target="_blank">Data Analyst</a>
 google_analytics: UA-162273372-1
-github:
-  is_project_page: false
