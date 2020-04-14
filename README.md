@@ -33,8 +33,4 @@ Repository of Python and SQL tools that automate data analysis and machine learn
 ### About me: <br> 
 I'm a data analyst with an MSc in data science and 7+ years of experience in applying statistical analysis to economic and market research. I'm currently based in Toronto, Canada.
 
-**Contact:** <a href="mailto:chandana.karu@gmail.com" target="_blank">chandana.karu@gmail.com</a>
-
 **LinkedIn:** <a href="https://www.linkedin.com/in/chandana-karu/" target="_blank">linkedin.com/in/chandana-karu</a>
-
-**Resume:** <a href="chandana-karunaratne.github.io/RESUME_Chandana_Karunaratne.pdf" target="_blank">Data Analyst_Chandana Karunaratne</a>
