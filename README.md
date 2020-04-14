@@ -11,7 +11,7 @@ Repository of Python and SQL tools that automate data analysis and machine learn
 ### [* Socio-demographic Profiler](https://github.com/chandana-karunaratne/TfL_Passenger_Profiles)
 * Creates socio-demographic profiles of passengers on the London Underground transit system using geospatial analysis
 
-### <a href="https://github.com/chandana-karunaratne/Twitter-Classifier" target="_blank">[* Twitter Classifier]</a>
+### <a href="https://github.com/chandana-karunaratne/Twitter-Classifier" target="_blank">* Twitter Classifier</a>
 * Downloads and categorizes tweets using a prediction algorithm based on machine learning
 
 ---
