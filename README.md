@@ -28,6 +28,8 @@ Repository of Python and SQL tools that automate data analysis and machine learn
 * Regression modelling (multivariable, logistic, probit) 
 * Time series analysis
 
+---
+
 ### About me: <br> 
 I'm a data analyst with an MSc in data science and 7+ years of experience in applying statistical analysis to economic and market research. I'm currently based in Toronto, Canada.
 
