@@ -2,6 +2,9 @@
 
 Repository of Python and SQL tools that automate data analysis and machine learning tasks (including natural language processing, classification, and regression modelling).
 
+### <a href="https://chandana.ca/coronamap/" target="_blank">* Coronavirus Map</a>
+* Interactive map of coronavirus cases in Ontario
+
 ### <a href="https://github.com/chandana-karunaratne/Twitter-Classifier" target="_blank">* Twitter Classifier</a>
 * Downloads and categorizes tweets using a prediction algorithm based on machine learning
 
